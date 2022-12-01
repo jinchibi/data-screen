@@ -1,4 +1,5 @@
 # data-screen
+![img]https://github.com/jinchibi/data-screen/blob/master/data-screen.gif
 
 ## Project setup
 ```
